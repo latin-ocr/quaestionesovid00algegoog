@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionesovid00algegoog_0003.png"; bbox 0 0 935 1356; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 208 282 352 311">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 208 282 352 311">
+     <span class='ocr_line' id='line_1_1' title="bbox 208 282 352 311; baseline -0.021 -3"><span class='ocrx_word' id='word_1_1' title='bbox 208 282 352 311; x_wconf 47' lang='lat' dir='ltr'>Lus-{ohsoo</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 332 367 572 605">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 332 367 572 605">
+     <span class='ocr_line' id='line_1_2' title="bbox 332 367 572 605; baseline 0 751"><span class='ocrx_word' id='word_1_2' title='bbox 332 367 572 605; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 315 640 582 664">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 315 640 582 664">
+     <span class='ocr_line' id='line_1_3' title="bbox 315 640 582 664; baseline -0.007 -3"><span class='ocrx_word' id='word_1_3' title='bbox 315 640 401 661; x_wconf 47' lang='lat' dir='ltr'>&amp;atham</span> <span class='ocrx_word' id='word_1_4' title='bbox 415 640 490 664; x_wconf 62' lang='lat' dir='ltr'>Otullzgt</span> <span class='ocrx_word' id='word_1_5' title='bbox 504 640 582 664; x_wconf 61' lang='lat' dir='ltr'>{ibrum</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 410 689 487 698">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 410 689 487 698">
+     <span class='ocr_line' id='line_1_4' title="bbox 410 689 487 698; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 410 689 449 698; x_wconf 64' lang='lat' dir='ltr'>mon</span> <span class='ocrx_word' id='word_1_7' title='bbox 458 689 487 698; x_wconf 70' lang='lat' dir='ltr'>nm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 294 723 604 737">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 294 723 604 737">
+     <span class='ocr_line' id='line_1_5' title="bbox 294 723 604 737; baseline 0.003 -1"><span class='ocrx_word' id='word_1_8' title='bbox 294 723 484 737; x_wconf 76' lang='lat' dir='ltr'>SALISBURY</span> <span class='ocrx_word' id='word_1_9' title='bbox 511 723 604 737; x_wconf 75' lang='lat' dir='ltr'>FUND.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 424 759 474 761">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 424 759 474 761">
+     <span class='ocr_line' id='line_1_6' title="bbox 424 759 474 761; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 424 759 474 761; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 262 779 636 899">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 262 779 636 899">
+     <span class='ocr_line' id='line_1_7' title="bbox 262 779 636 899; baseline 0 457"><span class='ocrx_word' id='word_1_11' title='bbox 262 779 636 899; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 490 1172 732 1246">
+    <p class='ocr_par' dir='ltr' id='par_1_8' title="bbox 490 1172 732 1246">
+     <span class='ocr_line' id='line_1_8' title="bbox 490 1172 732 1246; baseline 0 110"><span class='ocrx_word' id='word_1_12' title='bbox 490 1172 732 1246; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
